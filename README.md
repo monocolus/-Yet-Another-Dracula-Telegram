@@ -13,5 +13,5 @@
 5. Жмём "Применить изменения"
 
 ## Скриншот
-![Screenshot](https://github.com/monocolus/Yet-Another-Dracula-Telegram/blob/main/Screenshot.png)
+![Screenshot](https://github.com/monocolus/Yet-Another-Dracula-Telegram/blob/main/screen.png)
 
