@@ -1,6 +1,5 @@
 # Yet-Another-Dracula-Telegram Theme for [Telegram](https://desktop.telegram.org/)
-Тема для мессенджера Telegram, основанная на другой теме Dracula 
-> A dark theme for [Telegram Desktop](https://desktop.telegram.org/).
+> Тема для мессенджера [Telegram Desktop](https://desktop.telegram.org/), основанная на другой теме [Dracula](https://github.com/dracula/telegram)
 
 ## Установка
 1. Клонируйте репозиторий при помощи git и перейдите в папку:
